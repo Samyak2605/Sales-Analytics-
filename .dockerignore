@@ -1,0 +1,10 @@
+__pycache__
+.venv
+.env
+.git
+.gitignore
+*.pyc
+models/*.pth
+models/*.pkl
+outputs/*.png
+notebooks/.ipynb_checkpoints
